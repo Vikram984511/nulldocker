@@ -1,3 +1,3 @@
 FROM ubuntu:16.04
 MAINTAINER VIKRAM K KHARVI
-RUN mkdir /data/opt
+RUN mkdir /data/opt11
